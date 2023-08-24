@@ -3,4 +3,4 @@ MAXWIDTH = 5 # Width Of The Game Board
 MAXHEIGHT = 5 # Height Of The Game Board
 EATINGCHANCE = 50 # Chance Of Eating Successfully
 USEKINGS = True # Allows A Player To Become A King When Reaching The Top
-USESOUNDS = True
+USESOUNDS = True # If True The Game Will Use Sounds From .../sounds , Only Works In Windows
