@@ -12,7 +12,7 @@ Most Actions Have Sounds, Only Works For Windows.
 Has A Config File That Controls Certain Features in the Game.
 
 
-# <font color="red">C</font><font color="purple">o</font><font color="blue">l</font><font color="cyan">o</font><font color="yellow">r</font> Selection
+# Color Selection
 an Ability To Select Your Player's Color
 
 # 👑 Become A King 👑
