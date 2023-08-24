@@ -23,4 +23,4 @@ if You Reach The Other Side Of The Board You Become A King and Get Stronger
 Eat Your Opponents One By One Untill You Are The Only One Left
 
 # Requirements
-Windows - For Sounds
+Windows - For Sounds Not A Dependency
